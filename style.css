@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Jost", sans-serif;
+}
+
+body {
+  margin: 0 auto;
+}
+.home {
+  border: 1px solid #aaa;
+  margin: 0 auto;
+  background-color: aqua;
+  width: 30%;
+  height: 400px;
+}
+
+.exer_total {
+  color: #fff;
+  text-align: center;
+}
+#bai_one {
+  background-color: burlywood;
+  width: 400px;
+  height: 80px;
+  margin: 0 auto;
+}
+.result {
+  margin-right: 40px;
+  color: #fff;
+}
